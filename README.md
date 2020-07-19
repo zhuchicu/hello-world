@@ -1,2 +1,2 @@
 # hello-world
-The First Repository.
+ideas, resources, share and discuss.
